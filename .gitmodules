@@ -1,3 +1,9 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/alexvyber/nvim
+[submodule "zalupa"]
+	path = zalupa
+	url = https://github.com/alexvyber/front
+[submodule "katzen"]
+	path = katzen
+	url = https://github.com/alexvyber/front
